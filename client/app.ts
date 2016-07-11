@@ -4,7 +4,7 @@ import {Component} from '@angular/core';
 
 import {bootstrap} from '@angular2-meteor-auto-bootstrap';
 
-import {Parties} from '../collections/parties';
+import {Parties} from '../collections/parties.ts';
 
 import {Mongo} from 'meteor/mongo';
 
